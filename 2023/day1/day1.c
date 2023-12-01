@@ -1,3 +1,10 @@
+/*
+Invalid solution, I need to solve it in a C style
+
+Use pointers to access arrays, locate the tens place then the ones place. 
+
+possble solution, https://github.com/mendelmunkis/AoC/blob/master/2023/treb.c
+*/
 #include <stdio.h>
 #include <ctype.h>
 
